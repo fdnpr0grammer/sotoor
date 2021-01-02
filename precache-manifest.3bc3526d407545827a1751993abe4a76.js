@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sotoor/img/1.0d8bb39e.jpg"
   },
   {
-    "revision": "dbb67492ef18aad2fcab63990c3f972e",
+    "revision": "d3cd2d5318c149972f99f2d042e9b0ab",
     "url": "/sotoor/index.html"
   },
   {
-    "revision": "d11c96ee1c51ab651bea",
-    "url": "/sotoor/js/app.45d47590.js"
+    "revision": "3f583751749da07da0a6",
+    "url": "/sotoor/js/app.cdad0eff.js"
   },
   {
     "revision": "e9c4fe32210622fd898a",
