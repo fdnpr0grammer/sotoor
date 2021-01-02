@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sotoor/precache-manifest.3bc3526d407545827a1751993abe4a76.js"
+  "/sotoor/precache-manifest.3e400b077b34ffeddde7f056996e43ab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mobile-vet-doc"});
